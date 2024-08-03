@@ -1,0 +1,21 @@
+.mydiv{
+  border: 1px solid black;
+    height: 400px;
+    width: 400px;
+    margin: 30px;
+}
+.box{
+    transform: translate(10px,5px);
+}
+#bot{
+    transform: translate(10px,359px);
+} 
+.seed{
+    transform: translate(355px,-30px);
+}
+.hook{
+    transform: translate(190px,140px);
+}
+.kdsing{
+    transform: translate(355px,300px);
+}
